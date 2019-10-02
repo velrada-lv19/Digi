@@ -1,4 +1,4 @@
-# Digi community support repository
+# Digi Community
 This repository provide a communication space for issues and announcements to Digi users.
 
 # To report bug
